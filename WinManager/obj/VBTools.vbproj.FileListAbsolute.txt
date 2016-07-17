@@ -1,0 +1,11 @@
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\bin\Debug\JHelp.VBTools.dll
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\bin\Debug\JHelp.VBTools.pdb
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\bin\Debug\JHelp.xml
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.Form1.resources
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.Form2.resources
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.Resources.resources
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\VBTools.vbproj.GenerateResource.Cache
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.VBTools.dll
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.xml
+D:\JackWorkSpace\Programming\TestProjects\JHelp\JHelpVB\Tools\obj\Debug\JHelp.VBTools.pdb

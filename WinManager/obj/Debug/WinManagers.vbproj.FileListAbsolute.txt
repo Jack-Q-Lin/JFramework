@@ -1,0 +1,77 @@
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.xml
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.xml
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.xml
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.xml
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+D:\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.ProcessIndicator_Form.resources
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.xml
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.ProcessIndicator_Form.resources
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.xml
+D:\JackSpace\JHelpToolsForMOH\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.xml
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.ProcessIndicator_Form.resources
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.xml
+D:\JackSpace\Tests\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.xml
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.xml
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+D:\MyLatestUtilities\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbprojResolveAssemblyReference.cache
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.xml
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.xml
+C:\MININT\JL\JHelpTools\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\bin\Debug\JHelp.xml
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbprojResolveAssemblyReference.cache
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.xml
+C:\MININT\JHelpPackages\JHelpDLLs\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.dll
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\bin\Debug\JHelp.WinManagers.pdb
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\bin\Debug\JHelp.xml
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\obj\Debug\WinManagers.vbproj.GenerateResource.Cache
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.dll
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\obj\Debug\JHelp.xml
+C:\Users\jlin23\Documents\Visual Studio 2012\Projects\JFramework\WinManager\obj\Debug\JHelp.WinManagers.pdb

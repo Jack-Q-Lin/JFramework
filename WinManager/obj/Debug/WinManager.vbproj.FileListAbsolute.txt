@@ -1,0 +1,10 @@
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManager.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.WinManager.pdb
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\JHelp.xml
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\bin\Debug\Interop.ADODB.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\WinManager.vbprojResolveAssemblyReference.cache
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.Resources.resources
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\WinManager.vbproj.GenerateResource.Cache
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManager.dll
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.xml
+S:\JackSpace\MyLatestUtilities\JHelpProjects\JFramework\WinManager\obj\Debug\JHelp.WinManager.pdb

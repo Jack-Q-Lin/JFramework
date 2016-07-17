@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+test
+</name>
+</assembly>
+<members>
+<member name="M:test.modProcessIndicator.frmProcessIndicator(System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ To show the process indicaor:
+   you can simply insert one line (calling this routine) into your LOOP.
+   You can also insert one line (just befor your LOOP) caling this routine with parameter cMessage="ShowMessageOnly" or "ShowBarOnly" to force the indicator to be what you want.
+   If you didn't pass the correct nTotalSteps of your loop, Or you set to ShowMessageOnly, you need to call ProcessIndicator("Finish") after your LOOP. 
+      Otherwise the process indicator will stay displaying after your LOOP ended.
+   If the LOOP is a uncountable loop, you can call ProcessIndicator("Start Timer") before the LOOP and call ProcessIndicator("Stop Timer") after the LOOP
+ </summary>
+	<param name="cMessage">To pass an action ID like "ShowAll", "Show", "ShowMessageOnly", "ShowBarOnly", "Hide", "Finish". Or to pass the item description to be displayed.</param>
+	<param name="sCurrentFormName">The Form's name in which the Process Indicator is going to be displayed. If it is empty, the entire screen will be treated as the display area.</param>
+	<param name="nCurrentStep">Current step of the Loop</param>
+	<param name="nTotalSteps">Total steps of the Loop</param>
+	<remarks>Everything is considered and is packaged. Enjoy using it. Author: Jack Lin. Aug 02, 2012</remarks>
+</member>
+</members>
+</doc>
